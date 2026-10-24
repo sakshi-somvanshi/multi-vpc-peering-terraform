@@ -322,4 +322,7 @@ networking concepts and Terraform-based infrastructure management.
 
 Sakshi Somvanshi
 
-AWS Cloud | Terraform | Infrastructure as Code
+AWS Cloud | Terraform | Infrastructure as Code 
+
+## Project Documentation
+[View Project PDF](AWS_Multi-VPC_Peering_Sakshi_Somvanshi.pdf)
