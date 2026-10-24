@@ -324,5 +324,12 @@ Sakshi Somvanshi
 
 AWS Cloud | Terraform | Infrastructure as Code 
 
+## Architecture Diagram
+
+
+![Architecture](AWS_Multi-VPC_Peering_Architecture.png)
+
+
+
 ## Project Documentation
-[View Project PDF](AWS_Multi-VPC_Peering_Sakshi_Somvanshi.pdf)
+[📄 View Project PDF](https://github.com/sakshi-somvanshi/multi-vpc-peering-terraform/blob/master/AWS_Multi-VPC_Peering_Sakshi_Somvanshi%20(1).pdf)
